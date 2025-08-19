@@ -1,6 +1,4 @@
-# ethical-apps-2025
-Recreating 10 iconic apps (Spotify, Duolingo, Tinder...) with OpenAI &amp; Lovable under an ethical tech lens.  From Sept–Dec 2025, one app per week.
-# applications-éthiques-2025
+
 
 Recréer **10 applications emblématiques** (Spotify, Duolingo, Tinder…) avec **OpenAI** et **Lovable**, sous l’angle de la **technologie éthique**.  
 **Sept → Déc 2025** : une application par semaine, deux versions (OpenAI & Lovable), un comparatif clair, un design épuré, et un post LinkedIn.
@@ -12,6 +10,17 @@ Recréer **10 applications emblématiques** (Spotify, Duolingo, Tinder…) avec 
 - Documenter chaque semaine : **démos, prompts, insights, limites**, puis comparer OpenAI vs Lovable.
 - Préparer la **monétisation début 2026** (packs de prompts, mini‑apps prêtes à l’emploi).
 
+## 📂 Structure du repo (monorepo)
+
+## 📅 Roadmap
+- **Septembre** : Spotify IA, Duolingo Calme  
+- **Octobre** : Tinder Conversations, Instagram Mémoire, Uber Coopératif  
+- **Novembre** : Amazon Local, Airbnb Solidaire, Notion Conscience  
+- **Décembre** : LinkedIn Sincère, YouTube Focus  
+
 ---
 
-## 🧭 Structure du repo (monorepo)
+## 🚀 Prochaines étapes
+- [ ] Créer la structure vide (`apps/`, `packages/`)  
+- [ ] Démarrer Spotify IA (OpenAI & Lovable)  
+- [ ] Poster la première démo LinkedIn  
